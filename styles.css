@@ -1,0 +1,189 @@
+body{
+  color:black;
+  text-align: center;
+  font-family: 'Handlee', cursive;
+
+}
+.frontpage{
+  background-color: #fafafa;
+}
+.frontpage-p{
+  color: #5c8d89;
+  font-family: 'Handlee', cursive;
+}
+.computer{
+  border-radius: 50%
+}
+.q{
+  font-size: 1.5rem;
+  width:43%;
+  margin: auto;
+}
+.emoji{
+  font-size: 2rem;
+}
+.three{
+  font-family: 'Oregano', cursive;
+  font-size: 24px;
+}
+.three_p{
+  width:90%;
+  margin: auto;
+
+}
+
+.centiment{
+  width:80%;
+  margin: auto;
+
+}
+.GOA{
+  text-align: center;
+  margin: auto;
+}
+.video{
+  margin: 80px auto;
+
+}
+
+hr{
+     border-style: dotted none none;
+     border-color: grey;
+     border-width: 6px;
+     width: 5%;
+     margin:100px auto;
+   }
+h1{
+  font-size: 80px;
+  color: #1b2021;
+  line-height: 2;
+  margin: 100px 150px 100px auto;
+  font-family: 'Seaweed Script', cursive;
+
+}
+p{
+  font-size: 22px;
+  font-family: 'Playball', cursive;
+  line-height: 2;
+}
+.top{
+  width: 25%;
+  height: 25%;
+  float:right;
+  margin-right: auto;
+}
+h2{
+  font-weight: normal;
+  color:   #51c4d3;
+    font-size: 2.5rem;
+  font-family: 'Seaweed Script', cursive;
+  padding-bottom: 10px;
+
+
+}
+h3{
+  color: #11999E;
+
+}
+.two{
+  color:#1b2021;
+
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align:left;
+
+
+}
+.stayhome{
+  width:60%;
+  margin: auto;
+}
+.footer-link{
+color: #11999E;
+margin: 10px 20px;
+text-decoration: none;
+
+}
+.footer-link:hover{
+  color: #EAF6F6;
+}
+.mountain{
+    filter: contrast(120%);
+  width:40%;
+  height:auto;
+
+
+}
+.intro{
+  width:45%;
+  margin: auto;
+  font-size: 1.5rem;
+
+}
+.top-container{
+  text-align: center;
+  background-color: #edeef7;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  text-align: center;
+  margin: 100px 0;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 30px;
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:100px;
+
+}
+
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom:300px;
+}
+
+.Welcome{
+  text-decoration:underline;
+}
+.computer{
+  width: 50%;
+  height: 50%;
+  float: left;
+  margin-right: 30px;
+}
+.chilli{
+  width: 25%;
+  height: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.munna{
+  width: 15%;
+  height: 10%;
+  float: right;
+  margin-right: 200px;
+}
+.last{
+  color: white;
+  font-family: 'Girassol', cursive;
+  font-size: 1rem;
+
+}
+.page-last{
+  color: #393e46;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.page-last:hover{
+  color: #40e0d0;
+}
+/*display: inline-block it keeps the blocks into a line order. */
+/* relative means we are doing by element  border but when it comes to absoulte postioning it takes with parent element
+border */
